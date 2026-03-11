@@ -25,8 +25,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-![](./assets/images/blog-screenshot.png)
+<img width="1011" height="708" alt="blog-screenshot" src="https://github.com/user-attachments/assets/d09acfb1-7e0f-4418-a5a5-41b9ca8b3850" />
 
 ### Links
 
